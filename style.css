@@ -42,4 +42,40 @@ body {
     padding: 15px 30px;
     margin-top: 10px;
     background-color: orange;
+    cursor: pointer;
+}
+
+.title2 {
+    margin-top: 10%;
+    font-size: 60px;
+    text-align: center;
+}
+
+.donate-text {
+    text-align: center;
+    font-size: 20px;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.donate-tk {
+    text-align: center;
+    padding: 100px;
+}
+
+.button-tk {
+    width: 120px;
+    height: 120px;
+    text-align: center;
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 30px;
+    cursor: pointer;
+    border: none;
+    outline: none;
+
+}
+
+.orange {
+    color: orange;
 }
