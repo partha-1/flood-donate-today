@@ -16,7 +16,21 @@ body {
 }
 
 .top-artical {
-    color: rgb(255, 255, 255);
+
     text-align: center;
-    padding-top: 200px;
+    padding-top: 250px;
+    position: absolute;
+    padding-left: 10%;
+    padding-right: 10%;
+    color: white;
+}
+
+.title1 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.text1 {
+    margin: 10%;
+    font-size: 20px;
 }
