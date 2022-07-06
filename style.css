@@ -140,6 +140,7 @@ body {
     height: 300px;
     display: flex;
     padding-left: 10%;
+    padding-bottom: 50px;
 
 
 }
@@ -177,5 +178,29 @@ body {
 
 .section3-p {
     padding-top: 20px;
+
+}
+
+/* 3rd Section End */
+
+
+
+
+.sec-4 {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.flood-warning {
+    width: 600px;
+    height: 400px;
+    margin-right: 200px;
+    margin-top: 300px;
+}
+
+.sec4-content {
+    margin-left: 100px;
+    margin-right: 100px;
 
 }
