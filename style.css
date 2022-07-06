@@ -7,7 +7,7 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.container {
+.banner-container {
     background: url(images/donation9.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
@@ -31,6 +31,15 @@ body {
 }
 
 .text1 {
-    margin: 10%;
+    margin-top: 5%;
+    padding-left: 10%;
     font-size: 20px;
+}
+
+.donate-btn {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 15px 30px;
+    margin-top: 10px;
+    background-color: orange;
 }
