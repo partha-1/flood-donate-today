@@ -52,9 +52,9 @@ body {
 
 }
 
-/* first Section End */
+/* 1st Section End */
 
-
+/* 2nd Section Start */
 .title2 {
     margin-top: 10%;
     margin-bottom: 20px;
@@ -115,8 +115,9 @@ body {
     margin-left: 42%;
 }
 
-/* Second Section End */
+/* 2nd Section End */
 
+/* 3rd Section Start */
 .title-3 {
     text-align: center;
     font-size: 50px;
@@ -185,7 +186,7 @@ body {
 
 
 
-
+/* 4th Section Start */
 .sec-4 {
     display: flex;
     margin-bottom: 100px;
@@ -207,8 +208,62 @@ body {
 
 /* 4th Section End */
 
-.title-5 {}
 
-.text-5 {}
+/* 5th Section Start */
+
+.title-5 {
+    text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.text-5 {
+    text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.sec5-email {
+    width: 800px;
+    height: 200px;
+    background-color: rgba(253, 166, 4, 0.253);
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 100px;
+
+
+}
+
+.email-box {
+    text-align: center;
+    outline: none;
+    width: 60%;
+    margin-left: 100px;
+    margin-top: 80px;
+    font-size: 35px;
+    border-radius: 5px;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    background-color: rgb(230, 232, 233);
+
+
+}
+
+.email-btn {
+    width: 150px;
+    height: 48px;
+    font-size: 20px;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.705);
+    border-radius: 5px;
+    cursor: pointer;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+}
+
 
 /* 5th Section End */
